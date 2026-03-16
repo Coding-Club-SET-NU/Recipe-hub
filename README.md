@@ -3,7 +3,7 @@
 A modern, full-featured recipe discovery and meal planning web app built with React, TypeScript, and Firebase.
 
 
-visit here--->>> https://recipe-hub.anupchowdhury219.workers.dev/
+ Visit---->https://recipe-hub.anupchowdhury219.workers.dev/
 ---
 
 ## 📸 App Screenshots
